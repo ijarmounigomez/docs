@@ -27,7 +27,7 @@ Okay now let’s clone the Sync project source code in a terminal and spin it up
 
     > cd playgrounds/
 
-    > git clone [git@github.com](mailto:git@github.com):vechain/thor-sync.electron.git
+    > git clone https://github.com/vechain/thor-sync.electron.git
 
     > cd thor-sync.electron/
 
